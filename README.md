@@ -1,0 +1,2 @@
+# htmlstatic
+forautomatedc deployment pipeline
